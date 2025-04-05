@@ -17,7 +17,7 @@ Color Maker is a simple, interactive GUI application built using `customtkinter`
 
 ## Program Demo
 
-
+![Color Maker](https://github.com/Poyamohamadi/Color_Maker/blob/main/demo.gif)
 
 ## Features
 - **RGB Sliders**: Adjust red, green, and blue values using intuitive vertical sliders.
