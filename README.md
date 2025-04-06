@@ -128,8 +128,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Acknowledgments
 
-I would like to express my gratitude to the following individuals, organizations, and resources that have contributed to the development of this project:
-
 - **CustomTkinter Library**: Thanks to the developers of `customtkinter` for creating a modern and customizable GUI toolkit.
 
 - **Python Community**: Special thanks to the Python community for their support and resources.
